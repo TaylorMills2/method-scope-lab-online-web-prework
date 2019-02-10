@@ -1,3 +1,3 @@
 def catch_phrase (phrase)
-  puts phrase = toUppercase("It's-a me, Mario!")
+  puts phrase = toUpperCase("It's-a me, Mario!")
 end
